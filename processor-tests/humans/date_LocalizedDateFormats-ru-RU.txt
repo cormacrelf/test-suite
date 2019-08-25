@@ -55,6 +55,7 @@ April 1998 г.
 [
     {
         "id": "ITEM-1", 
+        "type": "book",
         "issued": {
             "date-parts": [
                 [

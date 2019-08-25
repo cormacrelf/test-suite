@@ -1,0 +1,2 @@
+cd crates/citeproc/tests/data/test-suite/processor-tests/humans
+ls | sort-by name

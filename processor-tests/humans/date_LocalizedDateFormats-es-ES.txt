@@ -55,6 +55,7 @@ April de 1998
 [
     {
         "id": "ITEM-1", 
+        "type": "book",
         "issued": {
             "date-parts": [
                 [
