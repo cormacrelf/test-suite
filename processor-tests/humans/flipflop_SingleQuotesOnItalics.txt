@@ -31,6 +31,7 @@ It is official (“<i>My Title</i>”) now
 [
     {
         "id": "ITEM-1", 
+        "type": "book",
         "title": "It is official (\"<i>My Title</i>\") now"
     }
 ]
