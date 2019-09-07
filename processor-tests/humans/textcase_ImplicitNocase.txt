@@ -50,7 +50,7 @@ My <sub>subscript phrase</sub> in a Title
 [
   {
     "id": "ITEM-1",
-    "title": "My <sc>small caps phrase</sc> in a title",
+    "title": "My <span style=\"font-variant: small-caps;\">small caps phrase</span> in a title",
     "type": "book"
   },
   {
