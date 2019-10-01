@@ -153,8 +153,7 @@ bibliography
     {
         "author": [
             {
-                "family": "Doe Co.", 
-                "isInstitution": true
+                "literal": "Doe Co."
             }
         ], 
         "id": "ITEM-1", 

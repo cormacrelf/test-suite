@@ -285,8 +285,7 @@ citation
     "author": [
       {
         "family": "Beck",
-        "given": "Nathaniel",
-        "isInstitution": ""
+        "given": "Nathaniel"
       }
     ],
     "container-title": "Political Analysis",
@@ -301,9 +300,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "page": "51-87",
     "title": "Comparing Dynamic Specifications: The Case of Presidential Approval",
     "title-short": "Comparing Dynamic Specifications",
@@ -314,13 +310,11 @@ citation
     "author": [
       {
         "family": "Beck",
-        "given": "Nathaniel",
-        "isInstitution": ""
+        "given": "Nathaniel"
       },
       {
         "family": "Katz",
-        "given": "Jonathan",
-        "isInstitution": ""
+        "given": "Jonathan"
       }
     ],
     "container-title": "International Organization",
@@ -332,9 +326,6 @@ citation
           2001
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "page": "487-495",
     "title": "Throwing Out the Baby with the Bath Water: A Comment on Green, Kim, and Yoon",
@@ -355,13 +346,11 @@ citation
     "author": [
       {
         "family": "Beck",
-        "given": "Nathaniel",
-        "isInstitution": ""
+        "given": "Nathaniel"
       },
       {
         "family": "Katz",
-        "given": "Jonathan",
-        "isInstitution": ""
+        "given": "Jonathan"
       }
     ],
     "container-title": "Annual Review of Political Science",
@@ -375,9 +364,6 @@ citation
       ]
     },
     "journalAbbreviation": "Annu. Rev. Polit. Sci.",
-    "multi": {
-      "_keys": {}
-    },
     "page": "331-352",
     "title": "Dynamics in Time Series Cross Section Data",
     "type": "article-journal",
@@ -387,18 +373,15 @@ citation
     "author": [
       {
         "family": "Beck",
-        "given": "Nathaniel",
-        "isInstitution": ""
+        "given": "Nathaniel"
       },
       {
         "family": "Katz",
-        "given": "Jonathan",
-        "isInstitution": ""
+        "given": "Jonathan"
       },
       {
         "family": "Tucker",
-        "given": "Richard",
-        "isInstitution": ""
+        "given": "Richard"
       }
     ],
     "container-title": "American Journal of Political Science",
@@ -410,9 +393,6 @@ citation
           1998
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "page": "1260-1288",
     "title": "Taking Time Seriously: Time-Series-Cross-Section Analysis with a Binary Dependent Variable",
@@ -433,18 +413,15 @@ citation
     "author": [
       {
         "family": "Beck",
-        "given": "Nathaniel",
-        "isInstitution": ""
+        "given": "Nathaniel"
       },
       {
         "family": "King",
-        "given": "Gary",
-        "isInstitution": ""
+        "given": "Gary"
       },
       {
         "family": "Zeng",
-        "given": "Langche",
-        "isInstitution": ""
+        "given": "Langche"
       }
     ],
     "container-title": "American Political Science Review",
@@ -459,9 +436,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "note": "ArticleType: research-article / Full publication date: Mar., 2000 / Copyright © 2000 American Political Science Association",
     "page": "21-35",
     "title": "Improving Quantitative Studies of International Conflict: A Conjecture",
@@ -473,8 +447,7 @@ citation
     "author": [
       {
         "family": "Colaresi",
-        "given": "Michael P.",
-        "isInstitution": ""
+        "given": "Michael P."
       }
     ],
     "event-place": "Syracuse, NY",
@@ -487,9 +460,6 @@ citation
           31
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "number-of-pages": "262",
     "publisher": "Syracuse University Press",
@@ -512,13 +482,11 @@ citation
     "author": [
       {
         "family": "Colaresi",
-        "given": "Michael P.",
-        "isInstitution": ""
+        "given": "Michael P."
       },
       {
         "family": "Thompson",
-        "given": "William R.",
-        "isInstitution": ""
+        "given": "William R."
       }
     ],
     "container-title": "Journal of Politics",
@@ -531,9 +499,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "page": "1175-1198",
     "title": "Hot Spots or Hot Hands? Serial Crisis Behavior, Escalating Risks, and Rivalry",
     "title-short": "Hot Spots or Hot Hands?",
@@ -544,18 +509,15 @@ citation
     "author": [
       {
         "family": "Colaresi",
-        "given": "Michael P.",
-        "isInstitution": ""
+        "given": "Michael P."
       },
       {
         "family": "Rasler",
-        "given": "Karen",
-        "isInstitution": ""
+        "given": "Karen"
       },
       {
         "family": "Thompson",
-        "given": "William R.",
-        "isInstitution": ""
+        "given": "William R."
       }
     ],
     "edition": "1",
@@ -567,9 +529,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "publisher": "Cambridge University Press",
     "title": "Strategic Rivalries in World Politics: Position, Space and Conflict Escalation",
     "title-short": "Strategic Rivalries in World Politics",
@@ -579,8 +538,7 @@ citation
     "author": [
       {
         "family": "Gochman",
-        "given": "Charles S.",
-        "isInstitution": ""
+        "given": "Charles S."
       }
     ],
     "container-title": "International Interactions",
@@ -592,9 +550,6 @@ citation
           1993
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "page": "49-76",
     "title": "The Evolution of Militarized Disputes",
@@ -615,13 +570,11 @@ citation
     "author": [
       {
         "family": "Gochman",
-        "given": "Charles S.",
-        "isInstitution": ""
+        "given": "Charles S."
       },
       {
         "family": "Leng",
-        "given": "Russell J.",
-        "isInstitution": ""
+        "given": "Russell J."
       }
     ],
     "container-title": "International Studies Quarterly",
@@ -635,9 +588,6 @@ citation
           1
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "note": "ArticleType: research-article / Full publication date: Mar., 1983 / Copyright © 1983 The International Studies Association",
     "page": "97-120",
@@ -660,13 +610,11 @@ citation
     "author": [
       {
         "family": "Gochman",
-        "given": "Charles S.",
-        "isInstitution": ""
+        "given": "Charles S."
       },
       {
         "family": "Maoz",
-        "given": "Zeev",
-        "isInstitution": ""
+        "given": "Zeev"
       }
     ],
     "container-title": "Journal of Conflict Resolution",
@@ -680,9 +628,6 @@ citation
           1
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "page": "585-616",
     "title": "Militarized Interstate Disputes, 1816-1976",

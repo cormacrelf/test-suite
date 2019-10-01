@@ -72,33 +72,27 @@ bibliography
         "author": [
             {
                 "family": "Bauthor", 
-                "given": "One Two", 
-                "isInstitution": ""
+                "given": "One Two"
             }, 
             {
                 "family": "Cauthor", 
-                "given": "Two", 
-                "isInstitution": ""
+                "given": "Two"
             }, 
             {
                 "family": "Dauthor", 
-                "given": "Three", 
-                "isInstitution": ""
+                "given": "Three"
             }, 
             {
                 "family": "Eauthor", 
-                "given": "Edward", 
-                "isInstitution": ""
+                "given": "Edward"
             }, 
             {
                 "family": "Fauthor", 
-                "given": "Fritz", 
-                "isInstitution": ""
+                "given": "Fritz"
             }, 
             {
                 "family": "Gauthor", 
-                "given": "Gerd", 
-                "isInstitution": ""
+                "given": "Gerd"
             }
         ], 
         "event-place": "Reportplace", 
@@ -112,9 +106,6 @@ bibliography
                     12
                 ]
             ]
-        }, 
-        "multi": {
-            "_keys": {}
         }, 
         "number": "17", 
         "publisher": "Institution", 

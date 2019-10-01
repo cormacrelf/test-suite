@@ -51,19 +51,13 @@ John Doe; Jane Roe OR Doe Inc.; Doe Inc.; Noakes Inc.
     {
         "author": [
             {
-                "family": "Doe Inc.", 
-                "given": "", 
-                "isInstitution": true
+                "literal": "Doe Inc."
             }, 
             {
-                "family": "Doe Inc.", 
-                "given": "", 
-                "isInstitution": true
+                "literal": "Doe Inc."
             }, 
             {
-                "family": "Noakes Inc.", 
-                "given": "", 
-                "isInstitution": true
+                "literal": "Noakes Inc."
             }
         ], 
         "id": "item-2", 

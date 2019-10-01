@@ -107,8 +107,7 @@ citation
     "author": [
       {
         "family": "Spivak",
-        "given": "Gayatri Chakravorty",
-        "isInstitution": ""
+        "given": "Gayatri Chakravorty"
       }
     ],
     "event-place": "Cambridge, Mass.",
@@ -119,9 +118,6 @@ citation
           1999
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "note": "Gayatri Chakravorty Spivak. 25 cm.",
     "publisher": "Harvard University Press",
@@ -134,21 +130,18 @@ citation
     "author": [
       {
         "family": "Spivak",
-        "given": "Gayatri Chakravorty",
-        "isInstitution": ""
+        "given": "Gayatri Chakravorty"
       }
     ],
     "container-title": "Cosmopolitics: Thinking and Feeling Beyond the Nation",
     "editor": [
       {
         "family": "Cheah",
-        "given": "Pheng",
-        "isInstitution": ""
+        "given": "Pheng"
       },
       {
         "family": "Robbins",
-        "given": "Bruce",
-        "isInstitution": ""
+        "given": "Bruce"
       }
     ],
     "event-place": "Minneapolis",
@@ -159,9 +152,6 @@ citation
           1998
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "page": "329 - 348",
     "publisher": "University of Minnesota Press",
@@ -174,8 +164,7 @@ citation
     "author": [
       {
         "family": "Spivak",
-        "given": "Gayatri Chakravorty",
-        "isInstitution": ""
+        "given": "Gayatri Chakravorty"
       }
     ],
     "event-place": "New York",
@@ -186,9 +175,6 @@ citation
           2003
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "note": "Gayatri Chakravorty Spivak. Crossing borders â€• Collectivities â€• Planetarity.",
     "publisher": "Columbia University Press",

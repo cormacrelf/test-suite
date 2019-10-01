@@ -409,28 +409,22 @@ citation
     },
     "author": [
       {
-        "family": "Caritas Europa",
-        "isInstitution": "true"
+        "literal": "Caritas Europa"
       },
       {
-        "family": "CCME",
-        "isInstitution": "true"
+        "literal": "CCME"
       },
       {
-        "family": "COMECE",
-        "isInstitution": "true"
+        "literal": "COMECE"
       },
       {
-        "family": "ICMC",
-        "isInstitution": "true"
+        "literal": "ICMC"
       },
       {
-        "family": "JRS-Europe",
-        "isInstitution": "true"
+        "literal": "JRS-Europe"
       },
       {
-        "family": "QCEA",
-        "isInstitution": "true"
+        "literal": "QCEA"
       }
     ],
     "id": "ITEM-1",
@@ -459,28 +453,22 @@ citation
     },
     "author": [
       {
-        "family": "Caritas Europa",
-        "isInstitution": "true"
+        "literal": "Caritas Europa"
       },
       {
-        "family": "CCME",
-        "isInstitution": "true"
+        "literal": "CCME"
       },
       {
-        "family": "COMECE",
-        "isInstitution": "true"
+        "literal": "COMECE"
       },
       {
-        "family": "ICMC",
-        "isInstitution": "true"
+        "literal": "ICMC"
       },
       {
-        "family": "JRS-Europe",
-        "isInstitution": "true"
+        "literal": "JRS-Europe"
       },
       {
-        "family": "QCEA",
-        "isInstitution": "true"
+        "literal": "QCEA"
       }
     ],
     "id": "ITEM-2",

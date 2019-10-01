@@ -406,9 +406,7 @@ citation
     "URL": "http://www.un.org/en/development/desa/policy/wesp/wesp_mb/wesp_mb30.pdf",
     "author": [
       {
-        "family": "UN DESA",
-        "given": "",
-        "isInstitution": ""
+        "literal": "UN DESA"
       }
     ],
     "collection-title": "Monthly Briefing",
@@ -422,9 +420,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "number": "30",
     "publisher": "United Nations",
     "title": "Monthly Briefing: World Economic Situation and Prospects",
@@ -434,9 +429,7 @@ citation
     "URL": "http://www.un.org/en/development/desa/policy/wesp/wesp_current/2011wespupdate_pr_en.pdf",
     "author": [
       {
-        "family": "UN DESA",
-        "given": "",
-        "isInstitution": ""
+        "literal": "UN DESA"
       }
     ],
     "collection-title": "WESP",
@@ -450,9 +443,6 @@ citation
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "publisher": "United Nations",
     "title": "World Economic Situation and Prospects 2011: Update as of mid-2011",
     "type": "report"
@@ -460,9 +450,7 @@ citation
   {
     "author": [
       {
-        "family": "UN DESA",
-        "given": "",
-        "isInstitution": ""
+        "literal": "UN DESA"
       }
     ],
     "call-number": "E.11.II.C.2",
@@ -475,9 +463,6 @@ citation
           13
         ]
       ]
-    },
-    "multi": {
-      "_keys": {}
     },
     "note": "#",
     "publisher": "United Nations",

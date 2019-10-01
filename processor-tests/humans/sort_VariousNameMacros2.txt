@@ -288,13 +288,11 @@ bibliography
         "author": [
             {
                 "family": "Doe", 
-                "given": "Jane B.", 
-                "isInstitution": ""
+                "given": "Jane B."
             }, 
             {
                 "family": "Doe", 
-                "given": "John A.", 
-                "isInstitution": ""
+                "given": "John A."
             }
         ], 
         "container-title": "Test", 
@@ -306,9 +304,6 @@ bibliography
                 ]
             ]
         }, 
-        "multi": {
-            "_keys": {}
-        }, 
         "page": "1-2", 
         "title": "Title 1", 
         "type": "article-journal", 
@@ -318,13 +313,11 @@ bibliography
         "author": [
             {
                 "family": "Doe", 
-                "given": "John A.", 
-                "isInstitution": ""
+                "given": "John A."
             }, 
             {
                 "family": "Smith", 
-                "given": "John A.", 
-                "isInstitution": ""
+                "given": "John A."
             }
         ], 
         "container-title": "Test", 
@@ -336,9 +329,6 @@ bibliography
                 ]
             ]
         }, 
-        "multi": {
-            "_keys": {}
-        }, 
         "page": "1-2", 
         "title": "Title 2", 
         "type": "article-journal", 
@@ -348,13 +338,11 @@ bibliography
         "author": [
             {
                 "family": "Doe", 
-                "given": "John A.", 
-                "isInstitution": ""
+                "given": "John A."
             }, 
             {
                 "family": "Bloggs", 
-                "given": "Joe A.", 
-                "isInstitution": ""
+                "given": "Joe A."
             }
         ], 
         "container-title": "Test", 
@@ -365,9 +353,6 @@ bibliography
                     2011
                 ]
             ]
-        }, 
-        "multi": {
-            "_keys": {}
         }, 
         "page": "3-4", 
         "title": "Title 3", 

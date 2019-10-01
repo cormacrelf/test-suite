@@ -47,16 +47,13 @@ JJ Doe; G Jones; B Smith; Alfred Benzon Foundation; James Benson Foundation; Joh
                 "given": "Bob"
             }, 
             {
-                "family": "Alfred Benzon Foundation", 
-                "isInstitution": "true"
+                "literal": "Alfred Benzon Foundation"
             }, 
             {
-                "family": "James Benson Foundation", 
-                "isInstitution": "true"
+                "literal": "James Benson Foundation"
             }, 
             {
-                "family": "John Candy Foundation", 
-                "isInstitution": "true"
+                "literal": "John Candy Foundation"
             }
         ], 
         "id": "ITEM-1", 

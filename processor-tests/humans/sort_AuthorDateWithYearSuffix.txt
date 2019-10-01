@@ -226,9 +226,6 @@ citation
   {
     "id": 30,
     "type": "article-journal",
-    "multi": {
-      "_keys": {}
-    },
     "title": "The vestibular system",
     "container-title": "Curr Biol",
     "page": "R583-6",
@@ -237,13 +234,11 @@ citation
     "author": [
       {
         "family": "Day",
-        "given": "B. L.",
-        "isInstitution": ""
+        "given": "B. L."
       },
       {
         "family": "Fitzpatrick",
-        "given": "R. C.",
-        "isInstitution": ""
+        "given": "R. C."
       }
     ],
     "issued": {
@@ -257,9 +252,6 @@ citation
   {
     "id": 32,
     "type": "paper-conference",
-    "multi": {
-      "_keys": {}
-    },
     "title": "Stair descent: kinematics in healthy young and older adults",
     "publisher-place": "Belgrade, Serbia",
     "page": "129-130",
@@ -268,23 +260,19 @@ citation
     "author": [
       {
         "family": "Mian",
-        "given": "O.S.",
-        "isInstitution": ""
+        "given": "O.S."
       },
       {
         "family": "Thom",
-        "given": "J. M.",
-        "isInstitution": ""
+        "given": "J. M."
       },
       {
         "family": "Narici",
-        "given": "M. V.",
-        "isInstitution": ""
+        "given": "M. V."
       },
       {
         "family": "Baltzopoulos",
-        "given": "V.",
-        "isInstitution": ""
+        "given": "V."
       }
     ],
     "issued": {
@@ -298,9 +286,6 @@ citation
   {
     "id": 29,
     "type": "article-journal",
-    "multi": {
-      "_keys": {}
-    },
     "title": "Virtual head rotation reveals a process of route reconstruction from human vestibular signals",
     "container-title": "J Physiol",
     "page": "591-7",
@@ -309,13 +294,11 @@ citation
     "author": [
       {
         "family": "Day",
-        "given": "B. L.",
-        "isInstitution": ""
+        "given": "B. L."
       },
       {
         "family": "Fitzpatrick",
-        "given": "R. C.",
-        "isInstitution": ""
+        "given": "R. C."
       }
     ],
     "issued": {

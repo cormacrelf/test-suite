@@ -407,8 +407,7 @@ bibliography
         }, 
         "author": [
             {
-                "family": "Doe Inc.", 
-                "isInstitution": true
+                "literal": "Doe Inc."
             }
         ], 
         "id": "ITEM-1", 

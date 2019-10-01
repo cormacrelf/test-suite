@@ -466,9 +466,6 @@ People v. Taylor, 73 N.Y.2d 683 (1989).
         ]
       ]
     },
-    "multi": {
-      "_keys": {}
-    },
     "page": "683",
     "title": "People v. Taylor",
     "type": "legal_case",

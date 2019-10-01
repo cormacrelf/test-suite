@@ -365,13 +365,11 @@ and followup thread:
         "author": [
             {
                 "family": "Oblinger", 
-                "given": "Dan Gerry", 
-                "isInstitution": ""
+                "given": "Dan Gerry"
             }, 
             {
                 "family": "Oblinger", 
-                "given": "Susan Mary", 
-                "isInstitution": ""
+                "given": "Susan Mary"
             }
         ], 
         "id": 3, 
@@ -381,9 +379,6 @@ and followup thread:
                     2009
                 ]
             ]
-        }, 
-        "multi": {
-            "_keys": {}
         }, 
         "title": "Bookie", 
         "type": "book"

@@ -40,24 +40,16 @@ Jonathan Chang وآخرون.
     "author": [
       {
         "family": "Chang",
-        "given": "Jonathan",
-        "multi": {
-          "_key": {}
+        "given": "Jonathan"
         }
       },
       {
         "family": "Gerrish",
-        "given": "Sean",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Sean"
       },
       {
         "family": "Wang",
-        "given": "Chong",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Chong"
       }
     ],
     "id": "ITEM-1",

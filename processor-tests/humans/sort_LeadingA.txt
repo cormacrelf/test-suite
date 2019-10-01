@@ -1321,10 +1321,7 @@ bibliography
     "author": [
       {
         "family": "Ab Delrahman",
-        "given": "Hussein",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Hussein"
       }
     ],
     "event-place": "Kbh",
@@ -1336,10 +1333,6 @@ bibliography
         ]
       ]
     },
-    "multi": {
-      "_keys": {},
-      "main": {}
-    },
     "publisher": "Politiken",
     "publisher-place": "Kbh",
     "title": "Det danske alfabet er sært",
@@ -1350,10 +1343,7 @@ bibliography
     "author": [
       {
         "family": "A Hansen",
-        "given": "Martin",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Martin"
       }
     ],
     "event-place": "København",
@@ -1365,10 +1355,6 @@ bibliography
         ]
       ]
     },
-    "multi": {
-      "_keys": {},
-      "main": {}
-    },
     "publisher": "Gyldendal",
     "publisher-place": "København",
     "title": "Alfabetiseringsproblemer",
@@ -1379,11 +1365,7 @@ bibliography
     "author": [
       {
         "family": "A kasernes fællesvirke",
-        "given": "",
-        "isInstitution": 1,
-        "multi": {
-          "_key": {}
-        }
+        "given": ""
       }
     ],
     "event-place": "Kbh",
@@ -1395,10 +1377,6 @@ bibliography
         ]
       ]
     },
-    "multi": {
-      "_keys": {},
-      "main": {}
-    },
     "publisher": "Dafolo",
     "publisher-place": "Kbh",
     "title": "Problemer med alfabetet",
@@ -1409,11 +1387,7 @@ bibliography
     "author": [
       {
         "family": "B Gjengen",
-        "given": "",
-        "isInstitution": 1,
-        "multi": {
-          "_key": {}
-        }
+        "given": ""
       }
     ],
     "event-place": "Kbh",
@@ -1425,10 +1399,6 @@ bibliography
         ]
       ]
     },
-    "multi": {
-      "_keys": {},
-      "main": {}
-    },
     "publisher-place": "Kbh",
     "title": "Alfabeta",
     "type": "book"
@@ -1438,24 +1408,15 @@ bibliography
     "author": [
       {
         "family": "Juul Jensen",
-        "given": "Uffe",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Uffe"
       },
       {
         "family": "Hædersdal",
-        "given": "Carsten",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Carsten"
       },
       {
         "family": "Skadborg",
-        "given": "Mogens Kim",
-        "multi": {
-          "_key": {}
-        }
+        "given": "Mogens Kim"
       }
     ],
     "call-number": "61.01",
@@ -1468,10 +1429,6 @@ bibliography
           2014
         ]
       ]
-    },
-    "multi": {
-      "_keys": {},
-      "main": {}
     },
     "page": "44-61",
     "title": "Etablering af klinisk etiske komitéer i Danmark: en praksis-filosofisk tilgang til klinisk etik fra bibliotek.dk",
@@ -1487,10 +1444,6 @@ bibliography
           2011
         ]
       ]
-    },
-    "multi": {
-      "_keys": {},
-      "main": {}
     },
     "publisher": "DR",
     "title": "A er det første bogstav i alfabetet",

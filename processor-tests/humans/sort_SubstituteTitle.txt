@@ -405,8 +405,7 @@ bibliography
         "author": [
             {
                 "family": "Brooker", 
-                "given": "Charlie", 
-                "isInstitution": ""
+                "given": "Charlie"
             }
         ], 
         "container-title": "The Guardian", 
@@ -420,9 +419,6 @@ bibliography
                     31
                 ]
             ]
-        }, 
-        "multi": {
-            "_keys": {}
         }, 
         "publisher-place": "London", 
         "title": "Let's think outside the box here: maybe blue-sky thinking is nonsense", 
@@ -442,8 +438,7 @@ bibliography
         "author": [
             {
                 "family": "Brooker", 
-                "given": "Charlie", 
-                "isInstitution": ""
+                "given": "Charlie"
             }
         ], 
         "container-title": "The Guardian", 
@@ -457,9 +452,6 @@ bibliography
                     24
                 ]
             ]
-        }, 
-        "multi": {
-            "_keys": {}
         }, 
         "publisher-place": "London", 
         "title": "The news coverage of the Norway mass-killings was fact-free conjecture", 
