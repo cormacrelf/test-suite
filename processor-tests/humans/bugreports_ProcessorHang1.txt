@@ -300,7 +300,6 @@ citation
         ]
       ]
     },
-    "key": "WQDG7EP5",
     "page": "1093-1105",
     "source": "Wiley InterScience",
     "title": "Biodiversity loss in Latin American coffee landscapes: review of the evidence on ants, birds, and trees",
@@ -336,7 +335,6 @@ citation
         ]
       ]
     },
-    "key": "74WGHVRQ",
     "page": "181-191",
     "source": "BioOne",
     "title": "Behavioral diversity of predatory arboreal ants in coffee agroecosystems",

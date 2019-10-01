@@ -71,7 +71,6 @@ Organisation 2010b
         ]
       ]
     },
-    "key": "QXTWKDFN",
     "publisher-place": "Canberra",
     "title": "blah",
     "type": "report"
@@ -91,7 +90,6 @@ Organisation 2010b
         ]
       ]
     },
-    "key": "HE34J5AE",
     "publisher-place": "Melbourne",
     "title": "blash",
     "type": "book"

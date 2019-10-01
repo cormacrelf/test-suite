@@ -76,7 +76,6 @@ should be this!
       }
     ],
     "id": 87,
-    "key": "178050_B4IMW86H",
     "title": "Legal Dictionary",
     "type": "webpage"
   }

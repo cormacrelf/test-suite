@@ -291,7 +291,6 @@ citation
         ]
       ]
     },
-    "key": "7NI2TA9B",
     "page": "7-34",
     "source": "HighWire",
     "title": "Institutional change in varieties of capitalism",
@@ -326,7 +325,6 @@ citation
         ]
       ]
     },
-    "key": "P9VUFEPC",
     "number-of-pages": "257",
     "publisher": "Cambridge University Press",
     "publisher-place": "Cambridge [England]",

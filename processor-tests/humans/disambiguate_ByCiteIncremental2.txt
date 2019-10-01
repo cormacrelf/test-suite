@@ -390,7 +390,6 @@ citation
                 ]
             ]
         }, 
-        "key": "T44568NT", 
         "page": "547–567", 
         "source": "Google Scholar", 
         "title": "The servitization of manufacturing: a review of literature and reflection on future challenges", 
@@ -439,7 +438,6 @@ citation
             ]
         }, 
         "journalAbbreviation": "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture", 
-        "key": "BZ6F9U6V", 
         "language": "en", 
         "page": "1207-1215", 
         "source": "pib.sagepub.com", 
