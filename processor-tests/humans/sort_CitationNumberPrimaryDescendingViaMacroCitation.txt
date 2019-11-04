@@ -34,7 +34,10 @@ citation
                 {
                     "id": "item-4"
                 }
-            ]
+            ],
+            "properties": {
+              "noteIndex": 1
+            }
         }, 
         [],
         []

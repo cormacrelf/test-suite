@@ -36,7 +36,10 @@ citation
                 {
                     "id": "item-3"
                 }
-            ]
+            ],
+            "properties": {
+              "noteIndex": 1
+            }
         }, 
         [],
         []
