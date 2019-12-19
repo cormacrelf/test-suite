@@ -2,10 +2,19 @@
 citation
 <<===== MODE =====<<
 
+Used to be: "This is a pen that is a Smith pencil", but this was incorrect:
 
+> ##### Sentence Case Conversion
+> ...
+>
+> 2. For lower or mixed case strings, the first character of the first word is
+> capitalized if the word is lowercase. **The case of all other words stays the
+> same.**
+
+Hence, Pen and Pencil should remain capitalized.
 
 >>===== RESULT =====>>
-This is a pen that is a Smith pencil
+This is a Pen that is a Smith Pencil
 <<===== RESULT =====<<
 
 
