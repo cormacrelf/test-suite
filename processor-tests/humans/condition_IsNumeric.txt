@@ -2,23 +2,9 @@
 citation
 <<===== MODE =====<<
 
-
->>===== ABBREVIATIONS =====>>
-{
-    "default": {
-        "number": {
-            "2nd volume": "2ND"
-        }
-    }
-}
-<<===== ABBREVIATIONS =====<<
-
-The second test would test true for is-numeric, but the content is
-rescued before the test by the abbreviations engine.
-
 >>===== RESULT =====>>
 Numeric false: Volume 2
-Numeric true: 2ND
+Numeric false: 2nd volume
 Numeric false: Second vol.
 Numeric true: 1998–VIII
 <<===== RESULT =====<<

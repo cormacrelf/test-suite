@@ -41,7 +41,6 @@ Jonathan Chang وآخرون.
       {
         "family": "Chang",
         "given": "Jonathan"
-        }
       },
       {
         "family": "Gerrish",

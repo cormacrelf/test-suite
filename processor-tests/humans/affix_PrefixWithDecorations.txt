@@ -40,7 +40,7 @@ citation
     [
         {
             "id": "ITEM-1", 
-            "prefix": "<span style="font-variant: small-caps;">See</span> "
+            "prefix": "<span style=\"font-variant: small-caps;\">See</span> "
         }
     ]
 ]
