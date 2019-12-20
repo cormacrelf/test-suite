@@ -6,7 +6,7 @@ bibliography
 
 >>== RESULT ==>>
 <div class="csl-bib-body">
-  <div class="csl-entry"><sup>Little, Stuart, <span style="baseline">My Short Narrative</span> (1990)</sup></div>
+  <div class="csl-entry"><sup>Little, Stuart, <span style="vertical-alignment:baseline;">My Short Narrative</span> (1990)</sup></div>
 </div>
 <<== RESULT ==<<
 
