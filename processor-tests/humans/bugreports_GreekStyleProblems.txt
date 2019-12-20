@@ -764,7 +764,7 @@ citation
           </group>
           <group>
             <text variable="number-of-volumes"/>
-            <text term="volume" form="verb-short" prefix=" " suffix="" strip-periods="true"/>
+            <text term="volume" prefix=" " suffix="" strip-periods="true"/>
           </group>
           <text macro="edition-note"/>
         </group>
@@ -808,7 +808,7 @@ citation
           </group>
           <group>
             <text variable="number-of-volumes"/>
-            <text term="volume" form="verb-short" prefix=" " suffix="" strip-periods="true"/>
+            <text term="volume" prefix=" " suffix="" strip-periods="true"/>
           </group>
           <text macro="edition"/>
         </group>
@@ -821,7 +821,7 @@ citation
           </group>
           <group>
             <text variable="number-of-volumes"/>
-            <text term="volume" form="verb-short" prefix=" " suffix="" strip-periods="true"/>
+            <text term="volume" prefix=" " suffix="" strip-periods="true"/>
           </group>
           <text macro="edition-note"/>
         </group>
