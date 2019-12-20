@@ -24,7 +24,7 @@ pages 213 et 235
       xmlns="http://purl.org/net/xbiblio/csl"
       class="note"
       version="1.0"
-      default-locale="fr"
+      default-locale="fr-FR"
       page-range-format="expanded">
   <info>
     <id />

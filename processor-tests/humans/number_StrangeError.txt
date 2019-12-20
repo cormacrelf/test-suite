@@ -15,7 +15,7 @@ Delimiter is a non-breaking Unicode hyphen U+2011, supplied by the CSL 1.0.1 fr-
       xmlns="http://purl.org/net/xbiblio/csl"
       class="note"
       version="1.0"
-      default-locale="fr">
+      default-locale="fr-FR">
   <info>
     <id />
     <title />

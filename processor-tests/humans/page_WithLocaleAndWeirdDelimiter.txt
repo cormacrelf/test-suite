@@ -15,7 +15,7 @@ citation
       class="note"
       version="1.0"
       page-range-format="chicago"
-      default-locale="fr">
+      default-locale="fr-FR">
   <info>
     <id />
     <title />
