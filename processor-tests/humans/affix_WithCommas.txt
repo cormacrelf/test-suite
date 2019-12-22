@@ -875,59 +875,39 @@ John Smith, <i>Book C</i>, 2000, 23 is one source, David Jones, <i>Book D</i>, 2
   </macro>
   <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true">
     <layout suffix="." delimiter="; ">
-      <choose>
-        <if position="ibid-with-locator">
+      <group delimiter=", ">
+        <group delimiter=": ">
           <group delimiter=", ">
-            <text term="ibid" text-case="capitalize-first"/>
-            <text macro="point-locators-subsequent"/>
-          </group>
-        </if>
-        <else-if position="ibid">
-          <text term="ibid" text-case="capitalize-first"/>
-        </else-if>
-        <else-if position="subsequent">
-          <group delimiter=", ">
-            <text macro="contributors-short"/>
-            <text macro="title-short"/>
-            <text macro="point-locators-subsequent"/>
-          </group>
-        </else-if>
-        <else>
-          <group delimiter=", ">
-            <group delimiter=": ">
+            <group delimiter=" ">
               <group delimiter=", ">
                 <group delimiter=" ">
                   <group delimiter=", ">
                     <group delimiter=" ">
                       <group delimiter=", ">
-                        <group delimiter=" ">
-                          <group delimiter=", ">
-                            <text macro="contributors-note"/>
-                            <text macro="title-note"/>
-                          </group>
-                          <text macro="description-note"/>
-                        </group>
-                        <text macro="secondary-contributors-note"/>
-                        <text macro="container-title-note"/>
-                        <text macro="container-contributors-note"/>
+                        <text macro="contributors-note"/>
+                        <text macro="title-note"/>
                       </group>
-                      <text macro="locators-note-join-with-space"/>
+                      <text macro="description-note"/>
                     </group>
-                    <text macro="locators-note-join-with-comma"/>
-                    <text macro="collection-title"/>
-                    <text macro="issue-note-join-with-comma"/>
+                    <text macro="secondary-contributors-note"/>
+                    <text macro="container-title-note"/>
+                    <text macro="container-contributors-note"/>
                   </group>
-                  <text macro="issue-note-join-with-space"/>
+                  <text macro="locators-note-join-with-space"/>
                 </group>
-                <text macro="locators-newspaper"/>
-                <text macro="point-locators-join-with-comma"/>
+                <text macro="locators-note-join-with-comma"/>
+                <text macro="collection-title"/>
+                <text macro="issue-note-join-with-comma"/>
               </group>
-              <text macro="point-locators-join-with-colon"/>
+              <text macro="issue-note-join-with-space"/>
             </group>
-            <text macro="access-note"/>
+            <text macro="locators-newspaper"/>
+            <text macro="point-locators-join-with-comma"/>
           </group>
-        </else>
-      </choose>
+          <text macro="point-locators-join-with-colon"/>
+        </group>
+        <text macro="access-note"/>
+      </group>
     </layout>
   </citation>
   <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="7" subsequent-author-substitute="———" entry-spacing="0">
