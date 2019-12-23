@@ -33,7 +33,7 @@ His Anonymous Life (1) pages 1â€“2 (cs:text) vs His Anonymous Life (1) pages 1â€
       <group delimiter=" " prefix=" vs " suffix=" (cs:number)">
         <text variable="title"/>
         <label variable="page"/>
-        <text variable="page"/>
+        <number variable="page"/>
       </group>
     </layout>
   </citation>
@@ -59,12 +59,6 @@ His Anonymous Life (1) pages 1â€“2 (cs:text) vs His Anonymous Life (1) pages 1â€
         "id": "ITEM-3", 
         "page": "3\\-B", 
         "title": "His Anonymous Life (3)", 
-        "type": "book"
-    }, 
-    {
-        "id": "ITEM-4", 
-        "page": "4â€“6", 
-        "title": "His Anonymous Life (4)", 
         "type": "book"
     }, 
     {
