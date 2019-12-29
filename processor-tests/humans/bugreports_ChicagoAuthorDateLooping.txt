@@ -14,8 +14,15 @@ Looping was caused by attempt to render:
 
 ... but seems more sensibly rendered as ...
 
->>===== RESULT =====>>
 (Anon.; Anon.; Manstein 1982)
+
+... which was also in the wrong order. The spec says "In the absence of
+cs:sort, cites and bibliographic entries appear in the order in which they are
+cited.", so it shouldn't sort the cluster to match the order in the
+bibliography. Hence ...
+
+>>===== RESULT =====>>
+(Manstein 1982; Anon.; Anon.)
 <<===== RESULT =====<<
 
 
