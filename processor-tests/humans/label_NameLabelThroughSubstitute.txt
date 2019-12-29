@@ -1428,7 +1428,14 @@ bibliography
       ]
     },
     "language": "en",
-    "note": "reviewed-title: Decrease of Deaf potential in a mainstreamed environment\ngenre: Peer commentary\nreviewed-author: Hall || W.C.",
+    "reviewed-title": "Decrease of Deaf potential in a mainstreamed environment",
+    "genre": "Peer commentary",
+    "reviewed-author": [
+      {
+        "family": "Hall",
+        "given": "W.C."
+      }
+    ],
     "title": "The future for Deaf individuals is not that bleak",
     "type": "post-weblog"
   }

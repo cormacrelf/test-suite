@@ -235,7 +235,7 @@ Test a combination reported by Zotero user @gauthamg, 2012-03-12
                 ]
             ]
         }, 
-        "note": "PMID: 11797025", 
+        "PMID": "11797025", 
         "page": "1892–1900", 
         "title": "The impact of delirium in the intensive care unit on hospital length of stay", 
         "type": "article-journal", 
@@ -309,7 +309,7 @@ Test a combination reported by Zotero user @gauthamg, 2012-03-12
                 ]
             ]
         }, 
-        "note": "PMID: 11445689", 
+        "PMID": "11445689", 
         "page": "1370–1379", 
         "title": "Evaluation of delirium in critically ill patients: validation of the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU)", 
         "title-short": "Evaluation of delirium in critically ill patients", 

@@ -5,6 +5,7 @@ citation
 
 
 >>===== RESULT =====>>
+Nolan J. Malone, U.S. Bureau of the Census, <i>Evaluating Components of International Migration: Consistency of 2000 Nativity Data</i> (New York: Routledge, 2001), 1234.
 Malone and U.S. Bureau of the Census, <i>Evaluating Components of International Migration: Consistency of 2000 Nativity Data</i>.
 <<===== RESULT =====<<
 
@@ -12,8 +13,13 @@ Malone and U.S. Bureau of the Census, <i>Evaluating Components of International 
 [
     [
         {
-            "id": "ITEM-6", 
-            "position": 1
+            "id": "ITEM-6",
+            "locator": "1234"
+        }
+    ],
+    [
+        {
+            "id": "ITEM-6"
         }
     ]
 ]
@@ -25,7 +31,7 @@ Malone and U.S. Bureau of the Census, <i>Evaluating Components of International 
        xmlns="http://purl.org/net/xbiblio/csl"
       class="in-text"
       version="1.0"
-      default-locale="en-US-x-sort-ja-alalc97-x-sec-en-x-pri-ja-alalc97">
+      default-locale="en-US">
   <info>
     <title>Chicago Manual of Style (Full Note with Bibliography)</title>
     <id>http://www.zotero.org/styles/chicago-fullnote-bibliography</id>

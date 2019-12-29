@@ -379,7 +379,6 @@ citation
         ]
       ]
     },
-    "key": "95I7USJP",
     "language": "en",
     "page": "505–511",
     "source": "Wiley Online Library",
