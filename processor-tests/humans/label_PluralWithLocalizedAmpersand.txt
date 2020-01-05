@@ -23,7 +23,7 @@ pages 213 AMPERSAND 235
 >>===== CSL =====>>
 <style 
       xmlns="http://purl.org/net/xbiblio/csl"
-      class="note"
+      class="in-text"
       version="1.0"
       page-range-format="expanded">
   <info>

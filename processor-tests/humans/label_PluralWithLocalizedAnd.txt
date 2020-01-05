@@ -22,7 +22,7 @@ pages 213 et 235
 >>===== CSL =====>>
 <style 
       xmlns="http://purl.org/net/xbiblio/csl"
-      class="note"
+      class="in-text"
       version="1.0"
       default-locale="fr-FR"
       page-range-format="expanded">
