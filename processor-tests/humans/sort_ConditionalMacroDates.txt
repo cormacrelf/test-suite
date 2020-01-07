@@ -24,8 +24,6 @@ bibliography
     <updated>2009-08-10T04:49:00+09:00</updated>
   </info>
   <macro name="issued-date">
-    <group prefix="[" suffix="]">
-    <text variable="title"/>
     <choose>
       <if type="book">
         <date variable="issued">
@@ -40,7 +38,6 @@ bibliography
         </date>
       </else>
     </choose>
-    </group>
   </macro>
   <citation>
     <layout>
@@ -49,7 +46,7 @@ bibliography
   </citation>
   <bibliography>
     <sort>
-      <key macro="issued-date" sort="ascending"/>
+      <key macro="issued-date" />
     </sort>
     <layout>
       <text variable="title" />
