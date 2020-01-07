@@ -2,12 +2,19 @@
 citation
 <<===== MODE =====<<
 
+Used to be:
 
+    (Doe, 1965b, 1965a)
+
+However, this didn't take into account that the order of the references would
+be reversed in the bibliography because of the sorting, and:
+
+> The assignment of the year-suffixes follows the order of the bibliographies
+> entries...
 
 >>===== RESULT =====>>
-(Doe, 1965a, 1965b)
+(Doe, 1965b, 1965a)
 <<===== RESULT =====<<
-
 
 >>===== CSL =====>>
 <?xml version="1.0" encoding="UTF-8"?>

@@ -2,10 +2,21 @@
 citation
 <<==== MODE ====<<
 
+Last line used to be incorrectly rendering an after-collapse-delimiter on the last line:
+
+    (Whittaker 1967; Wiens 1989b)
+
+(where acd = "; ", layout delimiter = ", ")
+
+However, Whittaker was not collapsed, so after-collapse-delimiter should not be
+used. The real chicago style has a semicolon as the layout delimiter, not a
+comma, so this is not a widespread incompatibility. The _LDIM_ is left in to
+catch this error.
+
 >>==== RESULT ====>>
 (Whittaker 1967, 1975; Wiens 1989a, 1989b)
 (Wong 1999, 328; 2000, 475; Garcia 1998, 67)
-(Whittaker 1967; Wiens 1989b)
+(Whittaker 1967 _LDIM_ Wiens 1989b)
 <<==== RESULT ====<<
 
 >>==== CITATION-ITEMS ====>>
@@ -647,7 +658,7 @@ citation
     </choose>
   </macro>
   <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name" collapse="year" after-collapse-delimiter="; ">
-    <layout prefix="(" suffix=")" delimiter=", ">
+    <layout prefix="(" suffix=")" delimiter=" _LDIM_ ">
       <group delimiter=", ">
         <choose>
           <if variable="issued accessed" match="any">

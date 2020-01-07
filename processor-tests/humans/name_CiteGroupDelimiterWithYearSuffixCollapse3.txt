@@ -2,8 +2,15 @@
 citation
 <<==== MODE ====<<
 
+Used to be
+
+    (Aalto 2015a,b; Bartleby 2010)
+
+But this was wrong because these are year suffixes, whose delimiter should be
+controlled by year-suffix-delimiter, which defaults to layout's delimiter.
+
 >>==== RESULT ====>>
-(Aalto 2015a,b; Bartleby 2010)
+(Aalto 2015a; b; Bartleby 2010)
 <<==== RESULT ====<<
 
 >>==== CITATION-ITEMS ====>>

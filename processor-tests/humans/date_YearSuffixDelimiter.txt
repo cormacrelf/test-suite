@@ -5,11 +5,15 @@
 citation
 <<===== MODE =====<<
 
+Used to be:
 
+    Doe 2000a,b;2001
 
+See collapse_YearSuffixImplicitCollapseNoYearSuffixDelimiter.txt for why that's
+incorrect.
 
 >>===== RESULT =====>>
-Doe 2000a,b;2001
+Doe 2000a,b, 2001
 <<===== RESULT =====<<
 
 

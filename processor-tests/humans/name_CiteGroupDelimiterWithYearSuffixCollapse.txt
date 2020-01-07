@@ -2,8 +2,12 @@
 citation
 <<==== MODE ====<<
 
+Used to be:
+
+    (Aalto 2015a, b)
+
 >>==== RESULT ====>>
-(Aalto 2015a, b)
+(Aalto 2015a; b)
 <<==== RESULT ====<<
 
 >>==== CITATION-ITEMS ====>>

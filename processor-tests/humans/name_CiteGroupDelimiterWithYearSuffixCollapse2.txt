@@ -2,8 +2,20 @@
 citation
 <<==== MODE ====<<
 
->>==== RESULT ====>>
+Used to be:
+
 (Aalto 2015a,b; Bartleby 2010; Aalto 2015c–e)
+
+But that is incorrect according to the example in the spec:
+
+“(Doe 1999; Smith 2002; Doe 2006; Doe et al. 2007)” becomes
+“(Doe 1999; Doe 2006; Smith 2002; Doe et al. 2007)”.
+
+The latter 3 Aaltos have identical output, so they must be moved before
+Bartleby in the same way "Doe 2006" is.
+
+>>==== RESULT ====>>
+(Aalto 2015a–e; Bartleby 2010)
 <<==== RESULT ====<<
 
 >>==== CITATION-ITEMS ====>>

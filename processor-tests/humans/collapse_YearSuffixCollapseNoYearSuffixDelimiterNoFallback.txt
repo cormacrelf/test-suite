@@ -1,3 +1,5 @@
+# Based on Rintze Zelle circa 2009.04.10
+
 >>===== MODE =====>>
 citation
 <<===== MODE =====<<
@@ -6,9 +8,42 @@ citation
 
 
 >>===== RESULT =====>>
-Smith 2000a,b,c,d,e &amp; 2001
-Smith 2000a,c,d,e &amp; 2001
+Smith 2000a–e &amp; 2001. Other 2002; More 2003
+Smith 2000a,c–e &amp; 2001. Other 2002; More 2003
 <<===== RESULT =====<<
+
+>>===== CSL =====>>
+<style 
+      xmlns="http://purl.org/net/xbiblio/csl"
+      class="note"
+      version="1.0">
+  <info>
+    <id>id</id>
+    <title>title</title>
+    <updated>2009-08-10T04:49:00+09:00</updated>
+  </info>
+  <citation 
+         collapse="year-suffix-ranged"
+         disambiguate-add-year-suffix="true"
+         cite-group-delimiter=" &amp; "
+         year-suffix-delimiter=","
+         after-collapse-delimiter=". "
+         >
+    <layout delimiter="; ">
+      <group delimiter=" ">
+        <names variable="author">
+          <name form="short" />
+        </names>
+        <date variable="issued">
+          <date-part name="year" />
+        </date>
+      </group>
+      <text variable="year-suffix" />
+    </layout>
+  </citation>
+</style>
+<<===== CSL =====<<
+
 
 
 >>===== CITATION-ITEMS =====>>
@@ -31,6 +66,12 @@ Smith 2000a,c,d,e &amp; 2001
         }, 
         {
             "id": "ITEM-6"
+        },
+        {
+            "id": "ITEM-7"
+        },
+        {
+            "id": "ITEM-8"
         }
     ], 
     [
@@ -48,42 +89,16 @@ Smith 2000a,c,d,e &amp; 2001
         }, 
         {
             "id": "ITEM-6"
+        },
+        {
+            "id": "ITEM-7"
+        },
+        {
+            "id": "ITEM-8"
         }
     ]
 ]
 <<===== CITATION-ITEMS =====<<
-
-
->>===== CSL =====>>
-<style 
-      xmlns="http://purl.org/net/xbiblio/csl"
-      class="note"
-      version="1.0">
-  <info>
-    <id>id</id>
-    <title>title</title>
-    <updated>2009-08-10T04:49:00+09:00</updated>
-  </info>
-  <citation 
-         collapse="year-suffix"
-         disambiguate-add-year-suffix="true"
-         year-suffix-delimiter=","
-         cite-group-delimiter=" &amp; "
-         >
-    <layout delimiter="_LD_">
-      <group delimiter=" ">
-        <names variable="author">
-          <name form="short" />
-        </names>
-        <date variable="issued">
-          <date-part name="year" />
-        </date>
-      </group>
-      <text variable="year-suffix" />
-    </layout>
-  </citation>
-</style>
-<<===== CSL =====<<
 
 
 >>===== INPUT =====>>
@@ -194,6 +209,42 @@ Smith 2000a,c,d,e &amp; 2001
             ]
         }, 
         "title": "Paper 6", 
+        "type": "book"
+    },
+    {
+        "author": [
+            {
+                "family": "Other", 
+                "given": "John"
+            }
+        ], 
+        "id": "ITEM-7", 
+        "issued": {
+            "date-parts": [
+                [
+                    "2002"
+                ]
+            ]
+        }, 
+        "title": "Paper 7", 
+        "type": "book"
+    },
+    {
+        "author": [
+            {
+                "family": "More", 
+                "given": "John"
+            }
+        ], 
+        "id": "ITEM-8", 
+        "issued": {
+            "date-parts": [
+                [
+                    "2003"
+                ]
+            ]
+        }, 
+        "title": "Paper 8", 
         "type": "book"
     }
 ]
