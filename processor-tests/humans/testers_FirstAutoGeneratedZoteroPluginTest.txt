@@ -757,7 +757,7 @@ citation
   {
     "id": 1,
     "type": "webpage",
-    "title": "<b>Zotero</b> … \"Quick Start\" & <span style="font-variant: small-caps;">Guide</span> 日本語", 
+    "title": "<b>Zotero</b> … \"Quick Start\" & <span style=\"font-variant: small-caps;\">Guide</span> 日本語", 
     "URL": "http://zotero.org/support/quick_start_guide",
     "author": [
       {

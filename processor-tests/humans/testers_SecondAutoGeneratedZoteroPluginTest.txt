@@ -714,11 +714,11 @@ bibliography
         "URL": "http://zotero.org/support/quick_start_guide", 
         "author": [
             {
-                "literal": "Center <sup>for</sup> History <sub>and</sub> New Media", 
+                "literal": "Center <sup>for</sup> History <sub>and</sub> New Media"
             }
         ], 
         "id": 1, 
-        "title": "<b>Zotero</b> … \"Quick Start\" & <span style="font-variant: small-caps;">Guide</span> 日本語", 
+        "title": "<b>Zotero</b> … \"Quick Start\" & <span style=\"font-variant: small-caps;\">Guide</span> 日本語", 
         "type": "webpage"
     }, 
     {

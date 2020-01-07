@@ -690,7 +690,7 @@ citation
                 ]
             ]
         }, 
-        "label": "id", 
+        "citation-label": "id", 
         "title": "A Lovely Title", 
         "type": "article-journal"
     }
