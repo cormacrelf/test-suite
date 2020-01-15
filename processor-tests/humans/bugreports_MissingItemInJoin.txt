@@ -3,7 +3,7 @@ citation
 <<==== MODE ====<<
 
 >>==== RESULT ====>>
-<i>Aalto</i>, Book One, S. 100 This.<i>Álvarez</i>, Book Two, S. 200<i>Álvarez</i>, Film One, 300
+<i>Aalto</i>, Book One, S. 100 This. <i>Álvarez</i>, Book Two, S. 200<i>Álvarez</i>, Film One, 300
 <<==== RESULT ====<<
 
 >>==== CITATION-ITEMS ====>>
