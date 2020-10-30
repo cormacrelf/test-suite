@@ -20,7 +20,7 @@ His « Anonymous » Life
 <style 
       xmlns="http://purl.org/net/xbiblio/csl"
       class="note"
-      version="1.0">
+      version="1.0" default-locale="fr-FR">
   <info>
     <id />
     <title />
